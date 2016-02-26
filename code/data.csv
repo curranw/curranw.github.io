@@ -1,0 +1,36 @@
+vertex,Name,Status,IN,OUT
+ 1, ManualLoad1,WAITING, -1, 0
+ 2, ManualLoad2, WAITING, -1, 0
+ 3, ManualLoad3, WAITING, -1, 0
+ 4, Auto1Input, WAITING, -1, 0
+ 5, Auto2Input, WAITING, -1, 0
+ 6, Robot1, LOADING, 0, 5
+ 7, Robot2, WAITING, -1, 0
+ 8, Robot3B, WAITING, -1, 0
+ 9, Robot3C, WAITING, -1, 0
+ 10, Robot4A, WAITING, -1, 0
+ 11, Robot5, WAITING, -1, 0
+ 12, Robot6, WAITING, -1, 0
+ 13, Robot7, WAITING, -1, 0
+ 14, Conveyor1, WAITING, -1, 0
+ 15, Conveyor2, WAITING, -1, 0
+ 16, Conveyor3A, WAITING, -1, 0
+ 17, Conveyor3B, WAITING, -1, 0
+ 18, Conveyor3C, WAITING, -1, 0
+ 19, Conveyor4A, WAITING, -1, 0
+ 20, Conveyor4B, WAITING, -1, 0
+ 21, Conveyor4C, WAITING, -1, 0
+ 22, Conveyor5A, WAITING, -1, 0
+ 23, Conveyor5B, WAITING, -1, 0
+ 24, Conveyor5C, WAITING, -1, 0
+ 25, Conveyor8A, WAITING, -1, 0
+ 26, Conveyor8B, WAITING, -1, 0
+ 27, Conveyor9, WAITING, -1, 0
+ 28, Conveyor12, WAITING, -1, 0
+ 29, Conveyor13, WAITING, -1, 0
+ 30, Conveyor14, WAITING, -1, 0
+ 31, Conveyor15, WAITING, -1, 0
+ 32, Conveyor16, WAITING, -1, 0
+ 33, GrindingRoom, WAITING, -1, 0
+ 34, Hand, WAITING, -1, 0
+
